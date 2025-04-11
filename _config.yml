@@ -13,19 +13,19 @@ title                    : "Zhipeng Yin"
 title_separator          : "-"
 name                     : &name "Zhipeng Yin"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://stefan0711.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : #
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   name             : "Zhipeng Yin"
   pronouns         : "he/him"# example: "she/her"
-  bio              : "Ph.D. Student in Computer science. "
+  bio              : "Ph.D. Student | Photographer. "
   location         : "Miami, FL"
   employer         : "Florida International University"
   uri              : "zhipengy.com"# URL
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www."# Username
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
