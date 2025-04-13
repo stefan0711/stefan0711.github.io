@@ -13,7 +13,7 @@ title                    : "Zhipeng Yin"
 title_separator          : "-"
 name                     : &name "Zhipeng Yin"
 description              : &description "personal description"
-url                      : "https://stefan0711.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "zhipengy.com" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #
 
@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "profile.JPG"
   name             : "Zhipeng Yin"
-  pronouns         : "he/him"# example: "she/her"
+  pronouns         : "He/Him"# example: "she/her"
   bio              : "Ph.D. Student | Photographer. "
   location         : "Miami, FL"
   employer         : "Florida International University"
-  uri              : "zhipengy.com"# URL
+  uri              : # URL
   email            : "zhip.y7@gmail.com"
 
   # Academic websites
