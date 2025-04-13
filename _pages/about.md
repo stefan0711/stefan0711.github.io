@@ -16,8 +16,9 @@ Beyond academia, I bring a strong background in software engineering, having hel
 In my spare time, I am also a passionate photographer, keen to capture moments that tell compelling visual stories.
 
 
-
+<div style="width: 200px; height: 150px; padding-left: 50%; padding-top: 50px;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=6jOsUZ0JJIOZZ-Evk6g6jVCZ7PKtlYAKQFCzTtMNug4"></script>
+            </div>
 
 
 
