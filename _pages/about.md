@@ -17,8 +17,7 @@ In my spare time, I am also a passionate photographer, keen to capture moments t
 
 
 <div style="width: 200px; height: 150px; padding-left: 50%; padding-top: 50px;">
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=6jOsUZ0JJIOZZ-Evk6g6jVCZ7PKtlYAKQFCzTtMNug4"></script>
-            </div>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6jOsUZ0JJIOZZ-Evk6g6jVCZ7PKtlYAKQFCzTtMNug4&cl=ffffff&w=a"></script></div>
 
 
 
