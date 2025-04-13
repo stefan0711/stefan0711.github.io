@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Zichong Wang, **Zhipeng Yin**, Yuying Zhang, Liping Yang, Tingting Zhang, Niki Pissinou, Yu Cai, Shu Hu, Yun Li, Liang Zhao and Wenbin Zhang'
-date: 2024-02-17
+date: 2025-02-17
 venue: 'ACM SIGKDD Explorations Newsletter'
 paperurl: 'chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.kdd.org/exploration_files/p89-Graph-fairness-Counterfactual.pdf'
 ---

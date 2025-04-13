@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Improving fairness in machine learning software via counterfactual fairness thinking"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: conference
+permalink: /publication/2024-02-17-paper-title-number-4
+excerpt: '**Zhipeng Yin**, Zichong Wang and Wenbin Zhang'
+date: 2024-12-01
+venue: ' 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3639478.3643531'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Machine Learning (ML) software is increasingly influencing decisions that impact individuals' lives. However, some of these decisions show discrimination and thus introduce algorithmic biases against certain social subgroups defined by sensitive attributes (e.g., gender or race). This has elevated software fairness bugs to an increasingly significant concern for software engineering (SE). However, most existing bias mitigation works enhance software fairness, a non-functional software property, at the cost of software performance. To this end, we proposed a novel framework, namely Group Equality Counterfactual Fairness (GECF), which aims to mitigate sensitive attribute bias and labeling bias using counterfactual fairness while reducing the resulting performance loss based on ensemble learning. Experimental results on 6 real-world datasets show the superiority of our proposed framework from different aspects.

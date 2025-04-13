@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Accessible Health Screening Using Body Fat Estimation by Image Segmentation"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: conference
+permalink: /publication/2024-02-17-paper-title-number-4
+excerpt: '**Zhipeng Yin**, Sameeksha Agarwal, Ayesha Kashif, Matthew Gonzalez, Zichong Wang, Suqing Liu, Zhen Liu, Yanzhao Wu, Ian Stockwell, Weifeng Xu, Puqing Jiang, Xingyu Zhang and Wenbin Zhang'
+date: 2024-11-01
+venue: '2024 IEEE International Conference on Data Mining Workshops (ICDMW)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10917928'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+Obesity-related diseases are among the top preventable causes of death, significant loss of life, and rising healthcare costs. Despite its severe health implications, accurately measuring body fat remains challenging due to its varied distribution across individuals. Differences in how men, women, and children store fat can complicate measurement techniques. Most current methods for assessing body fat require costly equipment, specialized cameras, or procedures available only at select medical centers, making them inaccessible to the broader public. This work introduces an innovative method to estimate body fat from the comfort of home. By analyzing an individual’s front and side profile photos taken with a personal device’s camera and incorporating their height, we leverage AI image segmentation along with the Navy Body Fat Formula to estimate body fat percentage. This approach accounts for the unique distribution of body fat across different body areas. The Navy Body Fat Formula calculates body fat percentage based on body circumference measurements, age, and gender. Our experiments demonstrate that this method produces accurate estimates, comparable to advanced techniques like bio-electrical impedance scales while being significantly more accessible. Additionally, we’ve made this technique available as an end-to-end tool (https://cv-body-calc.web.app/) to help anyone better understand their health and identify potential risks swiftly.
