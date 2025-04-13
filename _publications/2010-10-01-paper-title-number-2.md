@@ -1,7 +1,7 @@
 ---
 title: "Improving fairness in machine learning software via counterfactual fairness thinking"
 collection: publications
-category: conference
+category:   conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: '**Zhipeng Yin**, Zichong Wang and Wenbin Zhang'
 date: 2024-12-01

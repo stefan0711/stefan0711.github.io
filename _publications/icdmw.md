@@ -1,7 +1,7 @@
 ---
 title: "Optimization and improvement of fake news detection using voting technique for societal benefit"
 collection: publications
-category: conference
+category:   conferences
 permalink: /publication/icdmw
 excerpt: 'Sribala Vidyadhari Chinta, Karen Fernandes, Ningxi Cheng, Jordan Fernandez, Shamim Yazdani, **Zhipeng Yin**, Zichong Wang, Xuyu Wang, Weifeng Xu, Jun Liu, Chong Siang Yew, Puqing Jiang and Wenbin Zhang'
 date: 2023-11-01
