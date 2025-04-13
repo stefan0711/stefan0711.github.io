@@ -28,7 +28,7 @@ author:
   bio              : "Ph.D. Student | Photographer. "
   location         : "Miami, FL"
   employer         : "Florida International University"
-  uri              : # URL
+  uri              : "zhipengy.com"# URL
   email            : "zhip.y7@gmail.com"
 
   # Academic websites
@@ -36,7 +36,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=1nVpMXgAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0001-0816-5630"
-  semantic         : "zhipengy.com"# URL
+  semantic         : # URL
   pubmed           : #
   researchgate     : # URL
   scopus           : # URL
