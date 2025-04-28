@@ -2,7 +2,7 @@
 title: "Fairness in Large Language Models: A Tutorial"
 collection: publications
 category: tutorials
-permalink: /publication/icmdtu
+permalink: /publication/ijcai
 excerpt: 'Zichong Wang, Avash Palikhe, **Zhipeng Yin**, Jiale Zhang and Wenbin Zhang'
 date: 2025-04-27
 venue: 'The 34th International Joint Conference on Artificial Intelligence (IJCAI)'
