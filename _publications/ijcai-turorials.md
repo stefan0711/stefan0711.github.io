@@ -5,7 +5,7 @@ category: tutorials
 permalink: /publication/icmdtu
 excerpt: 'Zichong Wang, Avash Palikhe, Zhipeng Yin, Jiale Zhang and Wenbin Zhang'
 date: 2025-04-27
-venue: 'The 34th International Joint Conference on Artificial Intelligence (IJCAI)'
+venue: 'The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025'
 paperurl: ''
 ---
 
