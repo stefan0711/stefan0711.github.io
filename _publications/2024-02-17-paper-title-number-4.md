@@ -1,9 +1,9 @@
 ---
 title: "Graph Fairness via Authentic Counterfactuals: Tackling Structural and Causal Challenges"
 collection: publications
-category: manuscripts
+category: paper
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'Zichong Wang, **Zhipeng Yin**, Yuying Zhang, Liping Yang, Tingting Zhang, Niki Pissinou, Yu Cai, Shu Hu, Yun Li, Liang Zhao and Wenbin Zhang'
+excerpt: 'Zichong Wang, **Zhipeng Yin**, Fang Liu, Zhen Liu, Christine Lisetti, Rui Yu, Shaowei Wang, Jun Liu, Sukumar Ganapati, Shuigeng Zhou and Wenbin Zhang'
 date: 2025-02-17
 venue: 'ACM SIGKDD Explorations Newsletter'
 paperurl: 'chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.kdd.org/exploration_files/p89-Graph-fairness-Counterfactual.pdf'

@@ -1,8 +1,8 @@
 ---
 title: "Improving fairness in machine learning software via counterfactual fairness thinking"
 collection: publications
-category:   conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+category:   paper
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: '**Zhipeng Yin**, Zichong Wang and Wenbin Zhang'
 date: 2024-12-01
 venue: ' 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)'

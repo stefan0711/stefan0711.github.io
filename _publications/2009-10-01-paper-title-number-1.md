@@ -1,8 +1,8 @@
 ---
 title: "Accessible Health Screening Using Body Fat Estimation by Image Segmentation"
 collection: publications
-category:   conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+category:   paper
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: '**Zhipeng Yin**, Sameeksha Agarwal, Ayesha Kashif, Matthew Gonzalez, Zichong Wang, Suqing Liu, Zhen Liu, Yanzhao Wu, Ian Stockwell, Weifeng Xu, Puqing Jiang, Xingyu Zhang and Wenbin Zhang'
 date: 2024-11-01
 venue: '2024 IEEE International Conference on Data Mining Workshops (ICDMW)'

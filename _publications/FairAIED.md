@@ -1,7 +1,7 @@
 ---
 title: "FairAIED: Navigating fairness, bias, and ethics in educational AI applications"
 collection: publications
-category:   preprints
+category:   paper
 permalink: /publication/FairAIED
 excerpt: 'Sribala Vidyadhari Chinta, Zichong Wang, **Zhipeng Yin**, Nhat Hoang, Matthew Gonzalez, Tai Le Quy and Wenbin Zhang'
 date: 2024-04-01

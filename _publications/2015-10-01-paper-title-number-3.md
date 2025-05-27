@@ -1,8 +1,8 @@
 ---
 title: "FG-SMOTE: Towards Fair Node Classification with Graph Neural Network"
 collection: publications
-category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-4
+category: paper
+permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Zichong Wang, **Zhipeng Yin**, Yuying Zhang, Liping Yang, Tingting Zhang, Niki Pissinou, Yu Cai, Shu Hu, Yun Li, Liang Zhao and Wenbin Zhang'
 date: 2025-01-01
 venue: 'ACM SIGKDD Explorations Newsletter'
