@@ -1,5 +1,5 @@
 ---
-title: "Without complete demographic information"
+title: "Fairness-Aware Graph Representation Learning Without Complete Demographic Information"
 collection: publications
 category:   paper
 permalink: /publication/ecml1
